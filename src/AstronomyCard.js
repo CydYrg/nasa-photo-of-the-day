@@ -11,7 +11,7 @@ const AstronomyCard = (props) => {
                     <img src={url} alt={nasa} />
                 </a>
                 <p>{explanation}</p>
-                <span>{date}, {copyright}</span>
+                <span>{date}</span>
             </div>
         )
 }
