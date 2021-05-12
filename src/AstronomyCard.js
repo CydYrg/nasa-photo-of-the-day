@@ -8,7 +8,7 @@ const AstronomyCard = (props) => {
             <div className="astronomy-card">
                 <h6 className="astronomy-title">{title}</h6>
                 <a href={hdurl} className="astronomy-image-wrapper">
-                    <img src={url} alt={title} />
+                    <img src={url} alt={nasa} />
                 </a>
                 <p>{explanation}</p>
                 <span>{date}, {copyright}</span>
