@@ -34,8 +34,6 @@ class AstronomyContainer extends Component {
             <AstronomyCard data={astronomy} />
         )
     }
-            <div />
-        )
-    }
+        
 }
 export default AstronomyContainer;

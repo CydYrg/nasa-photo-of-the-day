@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import AstronomyContainer from './components/AstronomyContainer';
+import AstronomyContainer from './AstronomyContainer';
 import "./App.css";
 
 function App() {
@@ -13,5 +13,5 @@ function App() {
     </div>
   );
 }*/
-
+  )}
 export default App;
